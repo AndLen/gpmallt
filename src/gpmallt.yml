@@ -1,0 +1,14 @@
+name: gpmallt
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - xxhash
+  - deap
+  - scikit-learn
+  - scipy
+  - cachetools
+  - defaultlist
+  - numba
+  - hnswlib
+  - pandas
